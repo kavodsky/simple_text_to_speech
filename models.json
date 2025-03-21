@@ -1,0 +1,12 @@
+{
+    "voices": [
+        {
+            "name": "obiwan",
+            "model": "obiwan.pth"
+        },
+        {
+            "name": "david",
+            "model": "david.pth"
+        }
+    ]
+}
